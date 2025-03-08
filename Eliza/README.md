@@ -6,8 +6,9 @@ Note: You can add more patterns to make the chatbot more robust.
 
 ## Project Structure
 
- Eliza
+ 
  ```
+Eliza
  |-- src/
  |   |-- eliza.py  # Main chatbot script
  |   |-- pattern.py  # Contains regex patterns for responses
