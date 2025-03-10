@@ -56,3 +56,7 @@ The following libraries are required to run the project:
 ## Results
 
 The model achieves an accuracy of approximately `90%` on the test data.
+
+## Author
+
+Khaled Saleh
